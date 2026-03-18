@@ -1,0 +1,8 @@
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/SnipShot.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/install.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/install/local.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/SnipShot_autogen_timestamp_deps.dir
+D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-MinSizeRel/CMakeFiles/SnipShot_autogen.dir

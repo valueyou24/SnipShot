@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ab8c2f671c86809aeec8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SnipShot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SnipShot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnipShot-Debug-8a50cb8227c96863ba9f.json",
+					"name" : "SnipShot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SnipShot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnipShot_autogen-Debug-7fd747c194f794295c34.json",
+					"name" : "SnipShot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SnipShot_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SnipShot_autogen_timestamp_deps-Debug-0ad090d952b0d7f9e409.json",
+					"name" : "SnipShot_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Git/QT_Projects/SnipShot/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug",
+		"source" : "D:/Git/QT_Projects/SnipShot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
