@@ -1,0 +1,54 @@
+# Qt build directories
+build/
+*.pro.user
+*.user
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+
+# Qt Creator
+.qtcreator/
+.qtc/
+.qtc_clangd/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Qt generated files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*_autogen/
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+
+# Clangd
+.clangd
+
+# macOS
+.DS_Store
+*.xcodeproj
+
+# Linux
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
