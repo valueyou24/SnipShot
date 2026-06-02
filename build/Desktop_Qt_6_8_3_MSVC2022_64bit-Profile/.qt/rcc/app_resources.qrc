@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="icon/logo.png">D:/Git/QT_Projects/SnipShot/icon/logo.png</file>
-  </qresource>
-</RCC>
-

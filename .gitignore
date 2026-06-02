@@ -1,5 +1,6 @@
 # Qt build directories
 build/
+build_new/
 *.pro.user
 *.user
 
